@@ -3,17 +3,13 @@
 
 ### Excerpt: { other titles sum}
 
-_I hope that you and your family are doing well, and you are able to find a new rhythm in this hard situation._
-
-_As always, below you can read my best findings for the week -_
-
 ## This Week's Favorite
 
 [Title 1] · x mins read 
 
-{56 word summary}
+{56 word summary}1
 
-***
+----
 
 ## Business Development
 
@@ -32,7 +28,7 @@ _As always, below you can read my best findings for the week -_
 {56 word summary}
 
 
-*** 
+----
 
 ## Industry
 
@@ -51,8 +47,7 @@ _As always, below you can read my best findings for the week -_
 {56 word summary}
 
 
-_Keep reading, keep learning_
-_ - Dele Omotosho_
+
 
 
 
