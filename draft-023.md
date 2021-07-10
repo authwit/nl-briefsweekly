@@ -7,7 +7,7 @@
 
 [Law Firm Innovation | Finding Client Development Opportunity in Crisis](https://www.attorneyatwork.com/law-firm-client-development-opportunity-in-crisis-law-firm-innovation/) 
 
-Businesses around the world continue to feel the pandemic’s impact in countless ways. Most in-house legal departments still grapple with the challenges of working remotely, making do with leaner budgets and resources, and managing virtual teams — all during an unprecedented era across nearly all industries and geographies. Similarly, many private clients struggle to overcome hurdles related to limited access to technology or lack of funds. Times of crisis and uncertainty always present opportunity.......
+Businesses around the world continue to feel the pandemic’s impact in countless ways. Most in-house legal departments still grapple with the challenges of working remotely, making do with leaner budgets and resources, and managing virtual teams — all during an unprecedented era across nearly all industries and geographies. Similarly, many private clients struggle to overcome hurdles related to limited access to technology or lack of funds. Times of crisis and uncertainty always present opportunity and all other sectors.
 
 ## Law Firm Business Development
 
@@ -28,7 +28,7 @@ Content marketing is a wildly popular strategy and one that won’t be going awa
 
 ## Industry
 
-[Will artificial intelligence replace lawyers? - MikeLegal](https://blog.mikelegal.com/legaltech/will-artificial-intelligence-replace-lawyers/)
+[Will artificial intelligence replace lawyers? - ](https://blog.mikelegal.com/legaltech/will-artificial-intelligence-replace-lawyers/)
 
 Many believe that advancement in artificial intelligence could lead to increased unemployment. That belief is not entirely wrong. Consultancy company Accenture managed to automate 17,000 jobs without a single redundancy. PwC claims that the number now stands at 25,000 automated jobs and it is expected that 40% of jobs will be gone by 2030 in the United States of America and a further 30% of jobs will be automated in the United Kingdom. However, when one digs deeper they realize that the ability for robots or AI to take the jobs of humans varies from...
 
